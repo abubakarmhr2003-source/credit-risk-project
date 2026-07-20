@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Env files
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated model
+backend/credit_risk_model.pkl
+
+# IDE/editor metadata
+.commandcode/
