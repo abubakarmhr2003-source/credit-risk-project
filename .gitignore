@@ -20,3 +20,9 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Generated model
+backend/credit_risk_model.pkl
+
+# IDE/editor metadata
+.commandcode/
